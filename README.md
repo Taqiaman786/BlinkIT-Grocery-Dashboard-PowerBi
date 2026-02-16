@@ -92,8 +92,11 @@ Legend: Low Fat vs Regular
 Values: Total Sales
 Insight:
 •	Regular items contribute higher sales (~$776K).
+
 •	Low Fat contributes (~$425K).
+
 •	Indicates customer preference trend.
+
 ________________________________________
 3️⃣ Fat by Outlet (Stacked Bar Chart)
 Type: Clustered Bar Chart
